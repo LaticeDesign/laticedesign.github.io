@@ -248,3 +248,8 @@ body .mouth {
             transform: translate(-50%, -50%);
   }
 }
+h1{
+   position: relative;
+   top: 60vh;
+ 
+}
